@@ -18,3 +18,17 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "team"
+    label: "Team"
+    folder: "content/team"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+     preview: false
+    fields:
+      - { label: "Interets", name: "interets", widget: "string" }
+      - { label: "Caracteres", name: "caracteres", widget: "string" }
+      - { label: "Competences", name: "competences", widget: "string" }
+      - { label: "Parcours", name: "body", widget: "markdown" }
+
