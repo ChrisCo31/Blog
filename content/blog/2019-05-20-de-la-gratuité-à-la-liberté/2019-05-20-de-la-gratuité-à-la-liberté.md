@@ -4,7 +4,7 @@ date: 2019-05-20T09:16:29.176Z
 description: test du blog
 ---
 Loin de moi l’idée de discuter la valeur de ce qui est considéré comme un chef d’oeuvre de la littérature mondiale. Non, nous vous proposons aujourd'hui une vision panoramique de Gatsby, le célèbre (?) générateur de site statique membre de la non moins célèbre JamStack.
-
+![Flower](./flower.jpg)
 
 
 Consciente des atouts d’une solution Gatsby, nous ne craignons pas de l’opposer à l’une des solutions les  plus répandues afin de déterminer s’il supporte (ou pas) la comparaison : 
